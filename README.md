@@ -14,6 +14,9 @@ So that I can save a website
 I would like to add the site's address and title to bookmark manager
 ```
 
+## Domain Model 
+![alt text](https://github.com/CristinaGonzalezVaro/Bookmark_manager/blob/main/domain%20model.jpg)
+
 
 ## How to use
 ### To set up the project
