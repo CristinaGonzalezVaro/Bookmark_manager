@@ -14,6 +14,12 @@ So that I can save a website
 I would like to add the site's address and title to bookmark manager
 ```
 
+```
+As a user
+So I can store bookmark data for later use
+I want to add a bookmark to Bookmark Manager
+```
+
 ## Domain Model 
 ![alt text](https://github.com/CristinaGonzalezVaro/Bookmark_manager/blob/main/domain%20model.jpg)
 
